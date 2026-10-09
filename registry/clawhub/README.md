@@ -66,8 +66,4 @@ Do not fabricate first-person experience, independent authorship, psychological 
 
 ## Attribution and license
 
-The material-library concept was informed by [Nicolas Cole's The Right Way To Write With AI](https://artandbiz.substack.com/p/the-right-way-to-write-with-ai). This skill adds provenance, contribution boundaries, public-use scope, explicit states and feedback rules; it does not include the article text. MIT license; see [LICENSE](LICENSE).
-
-## Registry edition
-
-ClawHub requires MIT-0 for all skills. The exact English registry package is maintained in [registry/clawhub](registry/clawhub/README.md), with a separate [MIT-0 license](registry/clawhub/LICENSE). The root GitHub edition remains MIT. Registry version 1.0.1 replaces the initial incompatible 1.0.0 upload.
+The material-library concept was informed by [Nicolas Cole's The Right Way To Write With AI](https://artandbiz.substack.com/p/the-right-way-to-write-with-ai). This skill adds provenance, contribution boundaries, public-use scope, explicit states and feedback rules; it does not include the article text. This ClawHub edition uses MIT-0; the GitHub root edition uses MIT. See [LICENSE](LICENSE).
